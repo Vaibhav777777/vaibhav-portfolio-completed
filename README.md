@@ -1,2 +1,4 @@
-# vaibhav-portfolio-completed
-I developed this website using React Js Framework and JavaScript.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
