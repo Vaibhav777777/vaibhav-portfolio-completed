@@ -1,3 +1,4 @@
 # React + Vite
-Its a portfolio using Reactjs Framework and javascript
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
